@@ -1,0 +1,9 @@
+notes.txt
+
+.visualstudio/
+
+.env
+
+*.log
+
+nodes_modules/
