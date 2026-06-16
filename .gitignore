@@ -6,4 +6,4 @@ notes.txt
 
 *.log
 
-nodes_modules/
+node_modules/
